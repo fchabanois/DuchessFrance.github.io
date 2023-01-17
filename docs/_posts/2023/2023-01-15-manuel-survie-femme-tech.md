@@ -12,14 +12,14 @@ categories:
 
 | ![Crédit photo : Sara Richter / sarahrichterart sur pixabay.com](/assets/2023/01/2023-01-15-manuel-survie-femme-tech/femme-seule-devant-montagne-sara-richter-art){: width="300"} | Je vois de plus en plus de femmes rejoindre l'informatique, et c'est une très bonne chose. Je vois aussi trop de femmes patir de sexisme ordinaire, se remettre en question encore et encore... et quitter le milieu au bout de quelques années. J'ai mis du temps à apprendre certaines choses. Je voudrais vous faire gagner ces dix ans, pour qu'on arrive à une parité réelle dans le secteur numérique. Je m'adresse également à toutes les personnes qui souhaitent voir plus de femmes et personnes non binaires dans leurs équipes. Les femmes sont fortement incitées à faire un choix entre l’ambition (business and successful woman) et l’altruisme (femme qui colle aux codes et fait correctement son travail, loin de l’argent). Ce choix injuste et superflu résulte des stéréotypes que nous allons parcourir à travers cet article.|
 
+
 ## Ambition et altruisme
 
 Si vous êtes en couple hétérosexuel, vous avez dû remarquer que les comptes joints bancaires affichent par défaut :
 
-
 *“M ou Mme <nom de famille de l’homme> <prénom de l’homme>”*. 
 
-Je n’apparais pas sur cette ligne autrement que par “Mme”. C’est le nom de famille de mon époux, cette Mme pourrait tout aussi bien désigner ma belle-mère.
+Je n’apparais pas sur cette ligne autrement que par *“Mme”*. C’est le nom de famille de mon époux, cette Mme pourrait tout aussi bien désigner ma belle-mère.
 
 J’ai toujours trouvé cette pratique déplacée, en plus d’être ironique dans la mesure où je suis la plus grosse contributrice de ce compte. Lorsque j’ai demandé à notre nouvelle banque d’ajouter mon prénom, elle m’a répondu “*qu’il n’y avait pas suffisamment de place dans le logiciel*”.
 
@@ -273,7 +273,7 @@ Imaginez que je vous raconte une histoire mettant en action 100 développeuses. 
 
 Que visualisez-vous lorsque je parle de 101 développeurs ? Il n’y a pas de femmes dedans. Les 100 premières développeuses ont disparu, elles deviennent invisibles[^38]. Comment alors se projeter sur ce type de poste ? 
 
-Les **mots sont importants**. Les terminologies masculines comme “***les gars***”, “***le mec***”, “***le dev***” sont trop souvent utilisées et invisibilisent les femmes. Ce sont des formules excluantes. Comment réagissez-vous lorsque vous entendez "Bonjour Mesdames" quand vous êtes un 3 hommes dans un groupe de 30 personnes ? Plusieurs fois par jour ? Vous pouvez utiliser des termes épicènes “*les personnes*”, des formules englobantes “*l’équipe de développement*” ou doublonner “*le ou la dev*”, que personnellement je favorise. 
+Les **mots sont importants**. Les terminologies masculines comme “***les gars***”, “***le mec***”, “***le dev***” sont trop souvent utilisées et invisibilisent les femmes. Ce sont des formules excluantes. Comment réagissez-vous lorsque vous entendez "*Bonjour Mesdames*", alors même que vous êtes un parmi dix femmes ? Imaginez ce que cela arrive plusieurs fois par semaine, voire par jour... Vous pouvez utiliser des termes épicènes “*les personnes*”, des formules englobantes “*l’équipe de développement*” ou doublonner “*le ou la dev*”, que personnellement je favorise. 
 
 Enfin, les blagues sexistes ou commentaires sur les tenues des femmes ont des conséquences (cette remarque est valable pour les femmes). **Ne rien dire revient à cautionner**. Si vous êtes témoin d’une situation sexiste, manifestez votre désaccord oralement et clairement, **en votre nom**. Si vous n’êtes pas certain de ne pas être d’accord et que vous exprimez votre malaise, c’est aussi d’une très grande aide, car la personne n’est plus seule. Votre voix a une portée différente, elle est beaucoup plus entendue. 
 
